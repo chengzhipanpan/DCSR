@@ -1,0 +1,10 @@
+This is a modified subset of Natural Questions (https://ai.google.com/research/NaturalQuestions).
+It contains only a subset of question and answers from the original data augmented with extra passages taken from
+english wikipedia and is represented in a different format.
+
+
+Copyright (c) Facebook, Inc. and its affiliates.
+Copyright 2018 The Google AI Language Team Authors.
+
+License
+This data are released under the Creative Commons Share-Alike 3.0 license https://creativecommons.org/licenses/by-sa/3.0/
