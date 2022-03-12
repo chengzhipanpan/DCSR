@@ -3,7 +3,7 @@ Hydra==2.5
 hydra-core==1.1.0
 joblib==1.0.1
 jsonlines==2.0.0
-numpy==1.19.5
+numpy==1.21.0
 omegaconf==2.1.0
 packaging==21.0
 pandas==1.1.5
